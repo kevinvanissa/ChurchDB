@@ -1,0 +1,26 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+{% block content %}
+<h4>Hi, {{g.user.firstname}} {{g.user.lastname}}!</h4>
+{% include 'flash.html' %}
+<div class="row">
+        <div class="col-md-8 col-md-offset-4">
+            <h3>Add Entry</h3> 
+
+{% from "_formhelpers.html" import render_field %}
+<form class="form" method="post" action="{{url_for('edit',id=id)}}" role="form">
+                    {{form.hidden_tag()}}
+  <dl>
+    {{ render_field(form.RoomId) }}
+    {{ render_field(form.CourseCode) }}
+    {{ render_field(form.CourseType) }}
+    {{ render_field(form.UserInitial) }}
+  </dl>
+  <p><input type="submit" value="Edit"> </p>
+</form>
+
+
+      </div>
+    </div>
+
+{% endblock %}

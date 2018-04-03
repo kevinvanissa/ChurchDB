@@ -1,0 +1,60 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+{% block content %}
+<h4>Hi, {{g.user.firstname}} {{g.user.lastname}} </h4>
+{% include 'flash.html' %}
+<div class="row">
+      
+
+        <div class="col-md-8">
+            <h3>{{title}} ({{users|length}})</h3> 
+
+<a class="btn
+btn-info btn-xs" href="{{url_for('adduser')}}"><b><span class="glyphicon
+                        glyphicon-plus"></span></b> Add</a>
+
+
+<table class="table table-hover">
+                <thead><tr>
+                <th>Picture</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>View</th>
+
+                </tr>
+                </thead>
+
+
+ {% for user in users %}
+              <tr class="{% if loop.index % 2==0 %}even{%else%}odd{% endif %}">
+                <td>
+                    {% if not user.picture %} 
+                        <img src="/static/img/noimage.jpg" width='40px'
+                        height='40px'> 
+                    {% else %}
+                        <img src="{{url_for('uploaded_file',filename=user.picture)}}" width="40px">
+                    {% endif %}
+                </td>
+                <td>{{user.firstname}}</td>
+                <td>{{user.lastname}} </td>
+                <td>{{user.email}} </td>
+            
+
+            <td><a class="btn
+            btn-info btn-xs" href="{{url_for('detail',id=user.id)}}"><b><span class="glyphicon
+                        glyphicon-user"></span></b> View Detail</a></td>
+
+
+            </tr>
+            {% endfor %}
+
+            </table>
+
+
+    </div>
+
+
+    </div>
+
+{% endblock %}

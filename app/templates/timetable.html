@@ -1,0 +1,104 @@
+{% extends "base.html" %}
+{% block content %}
+<h4><b>Hi, {{g.user.firstname}} {{g.user.lastname}}</b> (Hours Tutorials: <b>{{tuthours}}</b> | Hours Marking: <b>{{markhours}}</b> | Hours Lectures: <b>{{lecthours}}</b> | Hours Labs: <b>{{labhours}}</b>) =<b> {{tuthours+markhours+lecthours+labhours}}</b></h4>
+
+{% include 'flash.html' %}
+
+ <div class="row">
+ <div class="col-md-12">
+    <form class="form-inline" action="" method="get" name="hform" id="hform" role="form">
+        <br />
+        {% if g.user.role == 1 %}
+        <div class="form-group">
+                <select id="tutorial" name="tutorial">
+                    <option value="">Filter..........</option>
+                    <option value="tutlab">Show Only Tutorials and Labs</option>
+                </select>
+        </div>
+        {% endif %}
+
+        {% if g.user.role == 0 and g.user.lecturer =='YES' %}
+
+        {% else %}
+        <div class="form-group">
+                            <button type="submit" class="btn btn-warning" name="btn" value="edit"></span> Edit Mode</button>
+                    </div>
+                </form>
+
+        {% endif %}
+
+
+<br />
+
+    <table class="table table-bordered table-striped table-condensed">
+        <tr>
+            <th>Time</th> 
+            <th>Monday</th> 
+            <th>Tuesday</th> 
+            <th>Wednesday</th> 
+            <th>Thursday</th> 
+            <th>Friday</th> 
+            <th>Saturday</th> 
+        </tr>
+
+        {% for time in times %}
+            <tr>
+            <td>{{time}}</td>
+            {% for day in days %}
+                <td>
+                    {% for entry in timeDict[time][day] %}
+                        
+                        {% if entry.CourseType=='LEC' %}
+                        <span style='color:blue'>{{entry.CourseCode}} {{entry.Person}} {{entry.CourseType}} {{entry.Room}} </span> 
+
+                        {% if edit and g.user.role == 1 %}&nbsp;<a href="{{url_for('edit',id=entry.ID)}}"><b><span class="glyphicon glyphicon-edit"></span></b></a> <a href="{{url_for('delete',id=entry.ID)}}" onclick="javascript:return deleteItem();"><b><span class="glyphicon glyphicon-remove"></span></b></a>
+{% endif %} <br />
+
+
+
+                        {% elif entry.CourseType=='LAB'%}
+                            <span style='color:red'>{{entry.CourseCode}} {{entry.Person}} {{entry.CourseType}} {{entry.Room}} </span> 
+
+{% if edit and g.user.role==1%}&nbsp;<a href="{{url_for('edit',id=entry.ID)}}"><b><span class="glyphicon glyphicon-edit"></span></b></a> <a href="{{url_for('delete',id=entry.ID)}}" onclick="javascript:return deleteItem();"><b><span class="glyphicon glyphicon-remove"></span></b></a>{% endif %} 
+
+
+{% if edit and g.user.tutor=="YES" and entry.Person=="TUTOR" %}&nbsp;<a href="{{url_for('addT',id=entry.ID)}}"><b><span class="glyphicon glyphicon-plus"></span></b></a> </a>{% endif %}
+                        
+
+{% if edit and g.user.tutor=="YES" and entry.Person==g.user.userInitial %}&nbsp;<a href="{{url_for('deleteT',id=entry.ID)}}"><b><span class="glyphicon glyphicon-minus"></span></b></a> </a>{% endif %}
+<br />
+
+
+                        {% elif entry.CourseType=='TUTA' or entry.CourseType=='TUTB' or entry.CourseType=='TUT'%}
+                            <span style='color:green'>{{entry.CourseCode}} {{entry.Person}} {{entry.CourseType}} {{entry.Room}}</span>
+
+{% if edit and g.user.role == 1%}&nbsp;<a href="{{url_for('edit',id=entry.ID)}}"><b><span class="glyphicon glyphicon-edit"></span></b></a> <a href="{{url_for('delete',id=entry.ID)}}" onclick="javascript:return deleteItem();"><b><span class="glyphicon glyphicon-remove"></span></b></a>{% endif %} 
+
+
+{% if edit and g.user.tutor=="YES" and entry.Person=="TUTOR" %}&nbsp;<a href="{{url_for('addT',id=entry.ID)}}"><b><span class="glyphicon glyphicon-plus"></span></b></a> </a>{% endif %}
+
+
+{% if edit and g.user.tutor=="YES" and entry.Person==g.user.userInitial %}&nbsp;<a href="{{url_for('deleteT',id=entry.ID)}}"><b><span class="glyphicon glyphicon-minus"></span></b></a> </a>{% endif %}
+
+<br />
+
+                        {% else %}
+                            {{entry.CourseCode}} {{entry.Person}} {{entry.CourseType}} {{entry.Room}} 
+
+{% if edit  and g.user.role == 1 %}&nbsp;<a href="{{url_for('edit',id=entry.ID)}}"><b><span class="glyphicon glyphicon-edit"></span></b></a> <a href="{{url_for('delete',id=entry.ID)}}"><b><span class="glyphicon glyphicon-remove"></span></b></a>{% endif %} <br /> 
+
+                        {% endif %}
+
+                    {% endfor %}
+                    {% if edit and g.user.role == 1 %}<a href="{{url_for('add',time=time,day=day,sem=sem)}}" class="btn-primary btn-sm">Add</a> {% endif %}
+                </td>
+            {% endfor %}
+            </tr> 
+        {% endfor %}
+
+    </table>
+ </div>
+ </div>
+
+
+{% endblock %}

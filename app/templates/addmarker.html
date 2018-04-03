@@ -1,0 +1,59 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+{% block content %}
+<h4>Hi, {{g.user.firstname}} {{g.user.lastname}} </h4>
+{% include 'flash.html' %}
+<div class="row">
+      
+
+        <div class="col-md-8">
+            <h3>Add Marker</h3> 
+
+{% from "_formhelpers.html" import render_field %}
+<form class="form" method="post" action="{{url_for('addMarker')}}" role="form">
+                    {{form.hidden_tag()}}
+  <dl>
+    {{ render_field(form.CourseCode) }}
+    {{ render_field(form.UserInitial) }}
+    {{ render_field(form.SemesterId) }}
+    {{ render_field(form.AssignmentCode) }}
+    {{ render_field(form.AssignmentDue) }}
+    {{ render_field(form.MarkingDue) }}
+    {{ render_field(form.SubmissionNumber) }}
+    {{ render_field(form.GradingRate) }} <span style="color:red;">(Time in mins per script)</span>
+  </dl>
+  <p><input type="submit" value="Add"> </p>
+</form>
+      </div>
+
+    <div class="col-md-4">
+    <h3>Markers</h3> 
+    <h4>Semester 1</h4> 
+
+    <ol>
+    {% for m in markers %}
+    {%if m.Marking.SemesterId=='1'%}
+    <li>{{m.User.firstname}} {{m.User.lastname}}-[<b>{{m.User.userInitial}}</b>] (<b>Hours: {{m.Marking.calculateHours()}}</b>)<a href="{{url_for('deleteMarker',id=m.Marking.Id)}}"> [delete]</a> </li>
+    {% endif %}
+    {% endfor %}
+    </ol>
+
+
+    <h4>Semester 2</h4> 
+<ol>
+    {% for m in markers %}
+    {% if m.Marking.SemesterId=='2'%}
+    <li>{{m.User.firstname}} {{m.User.lastname}}-[<b>{{m.User.userInitial}}</b>] (<b>Hours: {{m.Marking.calculateHours()}}</b>)<a href="{{url_for('deleteMarker',id=m.Marking.Id)}}"> [delete]</a> </li>
+    {% endif %}
+    {% endfor %}
+    </ol>
+
+
+
+
+</div>
+
+
+    </div>
+
+{% endblock %}

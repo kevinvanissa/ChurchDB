@@ -1,0 +1,167 @@
+CRN	SUBJ_CODE	CRSE_NUMB	COURSE_SECTION_TITLE	SEM_OFFERED	CAMPUS	SECTION	SCHED_TYPE	QUOTA	STAFF_ID	INSTRUCTOR	START_DATE	END_DATE	DAY	START_TIME	END_TIME	ROOM_DESC	Primary Instructor/First Examiner	Update Status (OK, Amend, Remove, Add)
+23292	COMP	1126	Introduction to Computing I	201520	Mona	B01	Lab	100	TUTOR	TUTOR	17-Jan-16	26-Feb-16	Mon	4:00 PM	5:59 PM	PAS Computer Science Lab 2		
+25929	COMP	1126	Introduction to Computing I LAB COMP1126	201520	Mona	B02	Lab	100	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Thur	11:00 AM	12:59 PM	Computer Lab		
+23293	COMP	1126	Introduction to Computing I	201520	Mona	M11	Lecture	200	10019397	Curtis C. Busby-Earle	17-Jan-16	26-Feb-16	Tues	4:00 PM	4:59 PM	Computing Lecture Room		
+23293	COMP	1126	Introduction to Computing I	201520	Mona	M11	Lecture	200	10019397	Curtis C. Busby-Earle	18-Jan-16	26-Feb-16	Wed	2:00 PM	3:59 PM	Computing Lecture Room		
+23295	COMP	1126	Introduction to Computing I Secondary Tutorial COMP1126	201520	Mona	T01	Secondary Tutorial	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Tues	6:00 PM	6:59 PM	Computer Science Tutorial Room 2		
+23296	COMP	1126	Introduction to Computing I	201520	Mona	T02	Secondary Tutorial	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Wed	5:00 PM	5:59 PM	Computer Science Tutorial Room 2		
+23483	COMP	1126	Introduction to Computing I Secondary Tutorial COMP1126	201520	Mona	T03	Secondary Tutorial	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Thur	5:00 PM	5:59 PM	Computer Science Tutorial Room 2		
+23484	COMP	1126	Introduction to Computing I Tutorial COMP1126	201520	Mona	T04	Tutorial/Discussions	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Thur	6:00 PM	6:59 PM	Computer Science Tutorial Room 2		
+23485	COMP	1126	Introduction to Computing I Tutorial COMP1126	201520	Mona	T05	Tutorial/Discussions	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Fri	2:00 PM	2:59 PM	POST GRAD COMPUTER ROOM		
+23486	COMP	1126	Introduction to Computing I Tutorial COMP1126	201520	Mona	T06	Tutorial/Discussions	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Fri	5:00 PM	5:59 PM	Computer Science Tutorial Room 1		
+24696	COMP	1126	Introduction to Computing I	201520	Mona	T07	Secondary Tutorial	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Wed	9:00 AM	9:59 AM	Computer Science Tutorial Room 1		
+24697	COMP	1126	Introduction to Computing I	201520	Mona	T08	Tutorial/Discussions	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Tues	2:00 PM	2:59 PM	Computer Science Tutorial Room 1		
+25638	COMP	1126	Introduction to Computing I COMP1126 TUTORIAL	201520	Mona	T09	Tutorial/Discussions	40	TUTOR	TUTOR	18-Jan-16	26-Feb-16	Fri	1:00 PM	1:59 PM	Computer Science Tutorial Room 2		
+25930	COMP	1126	Introduction to Computing I SECONDARY TUTORIAL COMP1126	201520	Mona	T10	Secondary Tutorial	40	TUTOR	TUTOR	18-Jan-16	16-Feb-16	Mon	2:00 PM	2:59 PM	Computer Science Tutorial Room 1		
+23297	COMP	1127	Introduction to Computing II Lab COMP1127	201520	Mona	B01	Lab	100	TUTOR	TUTOR	7-Mar-16	15-Apr-16	Mon	4:00 PM	5:59 PM	Computer Lab Lab 1		
+25937	COMP	1127	Introduction to Computing II LAB COMP1127	201520	Mona	B02	Lab	100	TUTOR	TUTOR	7-Mar-16	15-Apr-16	Thur	11:00 AM	12:59 PM	Computer Lab Lab 1		
+23298	COMP	1127	Introduction to Computing II	201520	Mona	M11	Lecture	200	10019397	Curtis C. Busby-Earle	7-Mar-16	15-Apr-16	Tues	4:00 PM	4:59 PM	Computing Lecture Room		
+23298	COMP	1127	Introduction to Computing II	201520	Mona	M11	Lecture	200	10019397	Curtis C. Busby-Earle	18-Jan-16	15-Apr-16	Wed	2:00 PM	3:59 PM	Computing Lecture Room		
+23299	COMP	1127	Introduction to Computing II Secondary Tutorial COMP 1127	201520	Mona	T01	Secondary Tutorial	40	TUTOR	TUTOR	7-Mar-16	8-Apr-16	Tues	6:00 PM	6:59 PM	Computer Science Tutorial Room 2		
+23300	COMP	1127	Introduction to Computing II Secondary Tutorial COMP1127	201520	Mona	T02	Secondary Tutorial	40	TUTOR	TUTOR	7-Mar-16	8-Apr-16	Wed	5:00 PM	5:59 PM	Computer Science Tutorial Room 2		
+23487	COMP	1127	Introduction to Computing II Secondary Tutorial COMP1127	201520	Mona	T03	Secondary Tutorial	40	TUTOR	TUTOR	7-Mar-16	8-Apr-16	Thur	5:00 PM	5:59 PM	Computer Science Tutorial Room 2		
+23488	COMP	1127	Introduction to Computing II Tutorial COMP1127	201520	Mona	T04	Tutorial/Discussions	40	TUTOR	TUTOR	7-Mar-16	14-Apr-16	Thur	6:00 PM	6:59 PM	Computer Science Tutorial Room 2		
+23489	COMP	1127	Introduction to Computing II Tutorial COMP1127	201520	Mona	T05	Tutorial/Discussions	40	TUTOR	TUTOR	7-Mar-16	14-Apr-16	Fri	2:00 PM	2:59 PM	POST GRAD COMPUTER ROOM		
+23490	COMP	1127	Introduction to Computing II Tutorial COMP1127	201520	Mona	T06	Tutorial/Discussions	40	TUTOR	TUTOR	7-Mar-16	14-Apr-16	Fri	5:00 PM	5:59 PM	Computer Science Tutorial Room 1		
+24699	COMP	1127	Introduction to Computing II	201520	Mona	T07	Secondary Tutorial	40	TUTOR	TUTOR	7-Mar-16	8-Apr-16	Wed	9:00 AM	9:59 AM	Computer Science Tutorial Room 1		
+24700	COMP	1127	Introduction to Computing II	201520	Mona	T08	Tutorial/Discussions	40	TUTOR	TUTOR	7-Mar-16	14-Apr-16	Tues	2:00 PM	2:59 PM	Computer Science Tutorial Room 1		
+25639	COMP	1127	Introduction to Computing II COMP1127 TUTORIAL	201520	Mona	T09	Tutorial/Discussions	40	TUTOR	TUTOR	7-Mar-16	14-Apr-16	Fri	1:00 PM	1:59 PM	Computer Science Tutorial Room 2		
+25938	COMP	1127	Introduction to Computing II SECONDARY TUTORIAL COMP1127	201520	Mona	T10	Secondary Tutorial	40	TUTOR	TUTOR	7-Mar-16	8-Apr-16	Mon	2:00 PM	2:59 PM	Computer Science Tutorial Room 1		
+23491	COMP	1161	Introduction to Object-Oriented Programming Lab COMP1161	201520	Mona	B01	Lab	75	10017952	Eyton A. Ferguson	18-Jan-16	14-Apr-16	Tues	5:00 PM	6:59 PM	Computer Lab Lab 1		
+23492	COMP	1161	Introduction to Object-Oriented Programming Lab COMP1161	201520	Mona	B02	Lab	75	10017952	Eyton A. Ferguson	18-Jan-16	14-Apr-16	Wed	5:00 PM	6:59 PM	Computer Lab Lab 1		
+23301	COMP	1161	Introduction to Object-Oriented Programming Lab COMP1161	201520	Mona	B03	Lab	75	TUTOR	TUTOR	17-Jan-16	4-May-16	Thur	8:00 AM	9:59 AM	Computer Lab Lab 1		
+23302	COMP	1161	Introduction to Object-Oriented Programming Lab COMP1161	201520	Mona	B04	Lab	75	TUTOR	TUTOR	17-Jan-16	4-May-16	Fri	8:00 AM	9:59 AM	Computer Lab Lab 1		
+26767	COMP	1161	Introduction to Object-Oriented Programming	201520	Mona	M12	Lecture	100	10031494	Andre K. Sheckleford	18-Jan-16	14-Apr-16	Mon	6:00 PM	7:59 PM	PAS Science Lecture Theatre		
+23430	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T01	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Mon	11:00 AM	11:59 AM	Computer Science Tutorial Room 1		
+23434	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T02	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Mon	3:00 PM	3:59 PM	Computer Science Tutorial Room 1		
+23436	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T03	Tutorial/Discussions	20	10019382	Paul A. Gaynor	18-Jan-16	14-Apr-16	Mon	12:00 PM	12:59 PM	Computer Science Tutorial Room 1		
+23442	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T04	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Mon	5:00 PM	5:59 PM	Computer Science Tutorial Room 2		
+23445	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T05	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	10:00 AM	10:59 AM	Computer Science Tutorial Room 1		
+23447	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T06	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	11:00 AM	11:59 AM	Computer Science Tutorial Room 1		
+23449	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T07	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	12:00 PM	12:59 PM	Computer Science Tutorial Room 1		
+23455	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T08	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Wed	7:00 PM	7:59 PM	Computer Science Tutorial Room 1		
+23457	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T09	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	7:00 PM	7:59 PM	Computer Science Tutorial Room 2		
+23458	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T10	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Mon	9:00 AM	9:59 AM	Computer Science Tutorial Room 2		
+23459	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T11	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	4:00 PM	4:59 PM	Computer Science Tutorial Room 1		
+23461	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T12	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Wed	2:00 PM	2:59 PM	Computer Science Tutorial Room 1		
+23463	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T13	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Wed	3:00 PM	3:59 PM	Computer Science Tutorial Room 1		
+23465	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP116	201520	Mona	T14	Tutorial/Discussions	20	10019382	Paul A. Gaynor	18-Jan-16	14-Apr-16	Thur	11:00 AM	11:59 AM	Computer Science Tutorial Room 2		
+23466	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T15	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Thur	12:00 PM	12:59 PM	Computer Science Tutorial Room 2		
+23468	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T17	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Fri	12:00 PM	12:59 PM	Computer Science Tutorial Room 1		
+23470	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T18	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	1:00 PM	1:59 PM	Computer Science Tutorial Room 1		
+23477	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T19	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Fri	5:00 PM	5:59 PM	Computer Science Tutorial Room 2		
+24129	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T20	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	8-Apr-16	Thur	10:00 AM	10:59 AM	Computer Science Tutorial Room 2		
+24130	COMP	1161	Introduction to Object-Oriented Programming Tutorial COMP1161	201520	Mona	T21	Tutorial/Discussions	20	TUTOR	TUTOR	18-Jan-16	8-Apr-16	Thur	5:00 PM	5:59 PM	Computer Science Tutorial Room 1		
+23544	COMP	1210	Mathematics for Computing	201520	Mona	M11	Lecture	180	10018699	Kirk R. Morgan	18-Jan-16	15-Apr-16	Mon	8:00 PM	8:59 PM	PAS Science Lecture Theatre		
+23544	COMP	1210	Mathematics for Computing	201520	Mona	M11	Lecture	180	10018699	Kirk R. Morgan	18-Jan-16	14-Apr-16	Tues	7:00 PM	7:59 PM	PAS Science Lecture Theatre		
+23545	COMP	1210	Mathematics for Computing Tutorial COMP1210	201520	Mona	T01	Tutorial/Discussions	30	10018699	Kirk R. Morgan	18-Jan-16	14-Apr-16	Wed	4:00 PM	4:59 PM	Computer Science Tutorial Room 2		
+23546	COMP	1210	Mathematics for Computing Tutorial COMP1210	201520	Mona	T02	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Fri	6:00 PM	6:59 PM	Computer Science Tutorial Room 2		
+23547	COMP	1210	Mathematics for Computing Tutorial COMP1210	201520	Mona	T03	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Wed	7:00 PM	7:59 PM	Computer Science Tutorial Room 2		
+23549	COMP	1210	Mathematics for Computing Tutorial COMP1210	201520	Mona	T05	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Fri	1:00 PM	1:59 PM	Computer Science Tutorial Room 1		
+23550	COMP	1210	Mathematics for Computing Tutorial COMP1210	201520	Mona	T06	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	4:00 PM	4:59 PM	Computer Science Tutorial Room 2		
+24717	COMP	1210	Mathematics for Computing	201520	Mona	T07	Tutorial/Discussions	30	10018699	Kirk R. Morgan	18-Jan-16	15-Apr-16	Fri	12:00 PM	12:59 PM	Computer Science Tutorial Room 2		
+23551	COMP	1220	Computing and Society	201520	Mona	M11	Lecture	295	10008919	Ashley G. Taylor	18-Jan-16	14-Apr-16	Thur	5:00 PM	6:59 PM	LAW LECTURE THEATRE 3		AMEND
+23551	COMP	1220	Computing and Society	201520	Mona	M11	Lecture	295	10008919	Ashley G. Taylor	18-Jan-16	14-Apr-16	Wed	5:00 PM	5:59 PM	Interfaculty Lecture Theater		AMEND
+	COMP	1220	Computing and Society	201520	Mona	M12	Lecture	295	10008919	Ashley G. Taylor	18-Jan-16	14-Apr-16	Wed	2:00 PM	2:59 PM	Physiology Lecture Theatre		ADD
+	COMP	1220	Computing and Society	201520	Mona	M12	Lecture	295	10008919	Ashley G. Taylor	18-Jan-16	14-Apr-16	Fri	12:00 PM	1:59 PM	Physiology Lecture Theatre		ADD
+24131	COMP	1220	Computing and Society Tutorial COMP1220	201520	Mona	T01	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	8-Apr-16	Fri	2:00 PM	2:59 PM	Computer Science Tutorial Room 2		
+24133	COMP	1220	Computing and Society Tutorial COMP1220	201520	Mona	T02	Tutorial/Discussions	25	10008919	Ashley G. Taylor	18-Jan-16	8-Apr-16	Wed	1:00 PM	1:59 PM	Computer Science Tutorial Room 2		
+24132	COMP	1220	Computing and Society Tutorial COMP1220	201520	Mona	T03	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	8-Apr-16	Fri	3:00 PM	3:59 PM	Computer Science Tutorial Room 1		
+24134	COMP	1220	Computing and Society Tutorial COMP1220	201520	Mona	T04	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	8-Apr-16	Thur	7:00 PM	7:59 PM	Computer Science Tutorial Room 2		
+24718	COMP	1220	Computing and Society	201520	Mona	T05	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Fri	4:00 PM	4:59 PM	Computer Science Tutorial Room 1		
+25640	COMP	1220	Computing and Society COMP1220 TUTORIAL	201520	Mona	T06	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Mon	6:00 PM	6:59 PM	Computer Science Tutorial Room 1		
+25641	COMP	1220	Computing and Society COMP1220 TUTORIAL	201520	Mona	T07	Tutorial/Discussions	25	10008919	Ashley G. Taylor	18-Jan-16	14-Apr-16	Tues	12:00 PM	12:59 PM	Computer Science Tutorial Room 2		
+25642	COMP	1220	Computing and Society COMP1220 TUTORIAL	201520	Mona	T08	Tutorial/Discussions	25	10008919	Ashley G. Taylor	18-Jan-16	14-Apr-16	Tues	1:00 PM	1:59 PM	Computer Science Tutorial Room 2		
+25643	COMP	1220	Computing and Society COMP1220 TUTORIAL	201520	Mona	T09	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Mon	7:00 PM	7:59 PM	Computer Science Tutorial Room 1		
+25644	COMP	1220	Computing and Society COMP1220 TUTORIAL	201520	Mona	T10	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Wed	3:00 PM	3:59 PM	Computer Science Tutorial Room 2		AMEND
+25645	COMP	1220	Computing and Society COMP1220 TUTORIAL	201520	Mona	T11	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	3:00 PM	3:59 PM	Computer Science Tutorial Room 1		
+26768	COMP	1220	Computing and Society	201520	Mona	T12	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Wed	6:00 PM	6:59 PM	Computing Lecture Room		
+26769	COMP	1220	Computing and Society	201520	Mona	T13	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Wed	7:00 PM	7:59 PM	Computing Lecture Room		
+26771	COMP	2130	Systems Programming	201520	Mona	B01	Lab	80	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Fri	8:00 AM	9:59 AM	PAS Computer Science Lab 2		
+25664	COMP	2130	Systems Programming	201520	Mona	M11	Lecture	80	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Wed	9:00 AM	9:59 AM	Computing Lecture Room		
+25664	COMP	2130	Systems Programming	201520	Mona	M11	Lecture	80	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Fri	10:00 AM	10:59 AM	Computing Lecture Room		
+20595	COMP	2170	(CS28Q) Object Technology	201520	Mona	M11	Lecture	100	10034383	Claudine A. Allen	18-Jan-16	14-Apr-16	Mon	5:00 PM	6:59 PM	LAW LECTURE THEATRE 2		AMEND
+20595	COMP	2170	(CS28Q) Object Technology	201520	Mona	M11	Lecture	100	10034383	Claudine A. Allen	18-Jan-16	14-Apr-16	Tues	8:00 PM	8:59 PM	LAW LECTURE THEATRE 2		AMEND
+24137	COMP	2170	(CS28Q) Object Technology Tutorial COMP2170	201520	Mona	T01	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	8-Apr-16	Fri	9:00 AM	9:59 AM	Computer Science Tutorial Room 2		
+21286	COMP	2170	(CS28Q) Object Technology Tutorial COMP2170	201520	Mona	T02	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Thur	9:00 AM	9:59 AM	Computer Science Tutorial Room 1		
+22658	COMP	2170	(CS28Q) Object Technology	201520	Mona	T03	Tutorial/Discussions	25	10034383	Claudine A. Allen	18-Jan-16	14-Apr-16	Mon	3:00 PM	3:59 PM	POST GRAD COMPUTER ROOM		
+24720	COMP	2170	(CS28Q) Object Technology	201520	Mona	T04	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Wed	2:00 PM	2:59 PM	POST GRAD COMPUTER ROOM		
+26772	COMP	2170	(CS28Q) Object Technology	201520	Mona	T05	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Wed	5:00 PM	5:59 PM	Post Grad Computer Room		
+25180	COMP	2211	Analysis of Algorithms	201520	Mona	M11	Lecture	125	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Mon	4:00 PM	4:59 PM	PAS: PreClinical Lecture Theatre		
+25180	COMP	2211	Analysis of Algorithms	201520	Mona	M11	Lecture	125	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Tues	1:00 PM	1:59 PM	PAS Science Lecture Theatre		
+25180	COMP	2211	Analysis of Algorithms	201520	Mona	M11	Lecture	125	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Fri	11:00 AM	11:59 AM	PAS: PreClinical Lecture Theatre		
+25181	COMP	2211	Analysis of Algorithms	201520	Mona	T01	Tutorial/Discussions	25	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Tues	10:00 AM	10:59 AM	Computer Science Tutorial Room 2		
+25182	COMP	2211	Analysis of Algorithms	201520	Mona	T02	Tutorial/Discussions	25	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Thur	12:00 PM	12:59 PM	Computer Science Tutorial Room 1		
+25183	COMP	2211	Analysis of Algorithms	201520	Mona	T03	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Wed	5:00 PM	5:59 PM	Computer Science Tutorial Room 1		
+25184	COMP	2211	Analysis of Algorithms	201520	Mona	T04	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Tues	5:00 PM	5:59 PM	Computer Science Tutorial Room 1		
+25321	COMP	2211	Analysis of Algorithms TUTORIAL COMP2211	201520	Mona	T05	Tutorial/Discussions	25	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Mon	2:00 PM	2:59 PM	POST GRAD COMPUTER ROOM		
+25187	COMP	2340	Computer Systems Organization LAB COMP2340	201520	Mona	B01	Lab	250	10034560	Simon U. Ewedafe	18-Jan-16	14-Apr-16	Wed	12:00 PM	1:59 PM	PAS Computer Science Lab 2		
+25312	COMP	2340	Computer Systems Organization	201520	Mona	B02	Lab	250	P_CS_TB02	Tba 2 Computing	18-Jan-16	15-Apr-16	Fri	12:00 PM	1:59 PM	Computer Lab Lab 1		
+25313	COMP	2340	Computer Systems Organization	201520	Mona	M11	Lecture	150	10034560	Simon U. Ewedafe	18-Jan-16	14-Apr-16	Wed	3:00 PM	3:59 PM	LAW LECTURE THEATRE 2		AMEND
+25313	COMP	2340	Computer Systems Organization	201520	Mona	M11	Lecture	150	10034560	Simon U. Ewedafe	18-Jan-16	14-Apr-16	Thur	10:00 AM	10:59 AM	LAW LECTURE THEATRE 2		AMEND
+25314	COMP	2340	Computer Systems Organization TUTORIAL COMP2340	201520	Mona	T01	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Mon	10:00 AM	10:58 AM	Computer Science Tutorial Room 1		
+25315	COMP	2340	Computer Systems Organization TUTORIAL COMP2340	201520	Mona	T02	Tutorial/Discussions	25	10034560	Simon U. Ewedafe	18-Jan-16	14-Apr-16	Tues	9:00 AM	9:59 AM	Computer Science Tutorial Room 1		
+25316	COMP	2340	Computer Systems Organization TUTORIAL COMP2340	201520	Mona	T03	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	2:00 PM	2:59 PM	Computer Science Tutorial Room 2		
+25317	COMP	2340	Computer Systems Organization TUTORIAL COMP2340	201520	Mona	T04	Tutorial/Discussions	25	10034560	Simon U. Ewedafe	18-Jan-16	14-Apr-16	Mon	9:00 AM	9:59 AM	POST GRAD COMPUTER ROOM		
+25318	COMP	2340	Computer Systems Organization TUTORIAL COMP2340	201520	Mona	T05	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Tues	4:00 PM	4:59 PM	POST GRAD COMPUTER ROOM		
+25319	COMP	2340	Computer Systems Organization TUTORIAL COMP2340	201520	Mona	T06	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	14-Apr-16	Fri	10:00 AM	10:59 AM	Computer Science Tutorial Room 1		
+25188	COMP	3161	Introduction to Database Management Systems	201520	Mona	B01	Lab	100	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Wed	2:00 PM	3:59 PM	Computer Lab Lab 1		
+25189	COMP	3161	Introduction to Database Management Systems	201520	Mona	M11	Lecture	100	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Tues	2:00 PM	2:59 PM	PAS Science Lecture Theatre		
+25189	COMP	3161	Introduction to Database Management Systems	201520	Mona	M11	Lecture	100	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Thur	12:00 PM	12:59 PM	PAS: PreClinical Lecture Theatre		
+25190	COMP	3161	Introduction to Database Management Systems	201520	Mona	T01	Tutorial/Discussions	25	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Mon	9:00 AM	9:59 AM	Computer Science Tutorial Room 1		
+25191	COMP	3161	Introduction to Database Management Systems	201520	Mona	T02	Tutorial/Discussions	25	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Tues	1:00 PM	1:59 PM	POST GRAD COMPUTER ROOM		
+25192	COMP	3161	Introduction to Database Management Systems	201520	Mona	T03	Tutorial/Discussions	25	10019348	Kevin J. Miller	18-Jan-16	15-Apr-16	Mon	12:00 PM	12:59 PM	Computer Science Tutorial Room 2		
+25193	COMP	3161	Introduction to Database Management Systems	201520	Mona	T04	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Tues	8:00 AM	8:59 AM	Computer Science Tutorial Room 2		
+25667	COMP	3192	Implementation of Computer Networks COMP3192 LAB	201520	Mona	B01	Lab	60	10032033	Daniel T. Fokum	18-Jan-16	15-Apr-16	Thur	5:00 PM	6:59 PM	Computer Lab Lab 1		
+25667	COMP	3192	Implementation of Computer Networks COMP3192 LAB	201520	Mona	B01	Lab	60	10032033	Daniel T. Fokum	18-Jan-16	15-Apr-16	Fri	10:00 AM	11:59 AM	Computer Lab Lab 1		
+25666	COMP	3192	Implementation of Computer Networks	201520	Mona	M11	Lecture	60	10032033	Daniel T. Fokum	18-Jan-16	15-Apr-16	Tues	11:00 AM	11:59 AM	Computing Lecture Room		
+25194	COMP	3702	Theory of Computation	201520	Mona	M11	Lecture	50	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Mon	3:00 PM	3:59 PM	PAS Science Lecture Theatre		
+25194	COMP	3702	Theory of Computation	201520	Mona	M11	Lecture	50	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Tues	4:00 PM	4:59 PM	PAS Science Lecture Theatre		
+25194	COMP	3702	Theory of Computation	201520	Mona	M11	Lecture	50	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Fri	1:00 PM	1:59 PM	PAS Science Lecture Theatre		
+25195	COMP	3702	Theory of Computation	201520	Mona	T01	Tutorial/Discussions	50	10015248	Daniel N. Coore	18-Jan-16	15-Apr-16	Mon	1:00 PM	1:59 PM	Computer Science Tutorial Room 1		
+25669	COMP	3801	Real Time Embedded Systems	201520	Mona	M11	Lecture	60	10019382	Paul A. Gaynor	18-Jan-16	15-Apr-16	Mon	10:00 AM	10:59 AM	Computing Lecture Room		
+25669	COMP	3801	Real Time Embedded Systems	201520	Mona	M11	Lecture	60	10019382	Paul A. Gaynor	18-Jan-16	15-Apr-16	Tues	12:00 PM	12:59 PM	Computing Lecture Room		
+25669	COMP	3801	Real Time Embedded Systems	201520	Mona	M11	Lecture	60	10019382	Paul A. Gaynor	18-Jan-16	15-Apr-16	Thur	8:00 AM	9:59 AM	PAS Computer Science Lab 2		
+25670	COMP	3801	Real Time Embedded Systems COMP3801 TUTORIAL	201520	Mona	T01	Tutorial/Discussions	30	10019382	Paul A. Gaynor	18-Jan-16	15-Apr-16	Mon	11:00 AM	11:59 AM	POST GRAD COMPUTER ROOM		
+24139	COMP	3911	Internship in Computing I	201520	Mona	M11	Internship	60	10019017	Carl C. Beckford	18-Jan-16	8-Apr-16	Tues	10:00 AM	11:59 AM			
+24139	COMP	3911	Internship in Computing I	201520	Mona	M11	Internship	60	10019348	Kevin J. Miller	18-Jan-16	8-Apr-16	Tues	10:00 AM	11:59 AM			
+24228	COMP	3912	Internship in Computing II	201520	Mona	M11	Internship	60	10019017	Carl C. Beckford	18-Jan-16	8-Apr-16	Tues	10:00 AM	11:59 AM			
+24228	COMP	3912	Internship in Computing II	201520	Mona	M11	Internship	60	10019348	Kevin J. Miller	18-Jan-16	8-Apr-16	Tues	10:00 AM	11:59 AM			
+24215	INFO	2100	Mathematics and Statistics for IT	201520	Mona	M11	Lecture	60	10032637	Ricardo A. Baccas	18-Jan-16	8-Apr-16	Mon	12:00 PM	12:59 PM	PAS: PreClinical Lecture Theatre		
+24215	INFO	2100	Mathematics and Statistics for IT	201520	Mona	M11	Lecture	60	10032637	Ricardo A. Baccas	18-Jan-16	8-Apr-16	Wed	12:00 PM	1:59 PM	PAS: PreClinical Lecture Theatre		
+24216	INFO	2100	Mathematics and Statistics for IT	201520	Mona	T01	Tutorial/Discussions	30	10032637	Ricardo A. Baccas	18-Jan-16	8-Apr-16	Thur	10:00 AM	10:59 AM	Computer Science Tutorial Room 1		
+24217	INFO	2100	Mathematics and Statistics for IT	201520	Mona	T02	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	8-Apr-16	Thur	11:00 AM	11:59 AM	Computer Science Tutorial Room 1		
+24724	INFO	3110	Information Systems in Organisations	201520	Mona	M11	Lecture	100	10019017	Carl C. Beckford	18-Jan-16	15-Apr-16	Wed	12:00 PM	1:59 PM	PAS Science Lecture Theatre		
+24724	INFO	3110	Information Systems in Organisations	201520	Mona	M11	Lecture	100	10019017	Carl C. Beckford	18-Jan-16	15-Apr-16	Fri	9:00 AM	9:59 AM	PAS Science Lecture Theatre		
+24725	INFO	3110	Information Systems in Organisations	201520	Mona	T01	Tutorial/Discussions	25	10019017	Carl C. Beckford	18-Jan-16	15-Apr-16	Thur	11:00 AM	11:59 AM	POST GRAD COMPUTER ROOM		
+24726	INFO	3110	Information Systems in Organisations	201520	Mona	T02	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Fri	10:00 AM	10:59 AM	Computer Science Tutorial Room 2		
+24727	INFO	3110	Information Systems in Organisations	201520	Mona	T03	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Thur	10:00 AM	10:59 AM	POST GRAD COMPUTER ROOM		
+24728	INFO	3110	Information Systems in Organisations	201520	Mona	T04	Tutorial/Discussions	25	10019017	Carl C. Beckford	18-Jan-16	15-Apr-16	Fri	3:00 PM	3:59 PM	POST GRAD COMPUTER ROOM		
+24759	INFO	3155	Information Assurance and Security	201520	Mona	M11	Lecture	100	10019397	Curtis C. Busby-Earle	18-Jan-16	15-Apr-16	Mon	12:00 PM	12:59 PM	Computing Lecture Room		
+24759	INFO	3155	Information Assurance and Security	201520	Mona	M11	Lecture	100	10019397	Curtis C. Busby-Earle	18-Jan-16	15-Apr-16	Tues	3:00 PM	3:59 PM	Computing Lecture Room		
+24759	INFO	3155	Information Assurance and Security	201520	Mona	M11	Lecture	100	10019397	Curtis C. Busby-Earle	18-Jan-16	15-Apr-16	Fri	12:00 PM	12:59 PM	Computing Lecture Room		
+24760	INFO	3155	Information Assurance and Security	201520	Mona	T01	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Wed	4:00 PM	4:59 PM	Computer Science Tutorial Room 1		
+24761	INFO	3155	Information Assurance and Security	201520	Mona	T02	Tutorial/Discussions	25	10019397	Curtis C. Busby-Earle	18-Jan-16	15-Apr-16	Mon	1:00 PM	1:59 PM	Computer Science Tutorial Room 2		
+25309	INFO	3155	Information Assurance and Security TUTORIAL INFO3155	201520	Mona	T03	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Tues	5:00 PM	5:59 PM	Computer Science Tutorial Room 2		
+24220	INFO	3180	Dynamic Web Development 2	201520	Mona	B01	Lab	60	10016161	David C. Bain	18-Jan-16	15-Apr-16	Wed	10:00 AM	11:59 AM	Computer Lab Lab 1		
+24218	INFO	3180	Dynamic Web Development 2	201520	Mona	M11	Lecture	60	10016161	David C. Bain	18-Jan-16	15-Apr-16	Wed	8:00 AM	9:59 AM	LAW LECTURE THEATRE 2		AMEND
+24219	INFO	3180	Dynamic Web Development 2	201520	Mona	T01	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Tues	11:00 AM	11:59 AM	Post Grad Computer Room		
+25171	INFO	3180	Dynamic Web Development 2	201520	Mona	T02	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Tues	9:00 AM	9:59 AM	Post Grad Computer Room		
+25310	INFO	3180	Dynamic Web Development 2 TUTORIAL INFO3180	201520	Mona	T03	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Fri	3:00 PM	3:59 PM	Computer Science Tutorial Room 2		
+25410	INFO	3435	E-Commerce	201520	Mona	M11	Lecture	60	10015212	Kevin H. Duncan	18-Jan-16	15-Apr-16	Wed	3:00 PM	3:59 PM	PAS Science Lecture Theatre		
+25410	INFO	3435	E-Commerce	201520	Mona	M11	Lecture	60	10015212	Kevin H. Duncan	18-Jan-16	15-Apr-16	Thur	11:00 AM	11:59 AM	Computing Lecture Room		
+25410	INFO	3435	E-Commerce	201520	Mona	M11	Lecture	60	10015212	Kevin H. Duncan	18-Jan-16	15-Apr-16	Fri	10:00 AM	10:59 AM	Computing Lecture Room		
+25413	INFO	3435	E-Commerce	201520	Mona	T01	Tutorial/Discussions	30	10015212	Kevin H. Duncan	18-Jan-16	15-Apr-16	Mon	4:00 PM	4:59 PM	POST GRAD COMPUTER ROOM		
+25414	INFO	3435	E-Commerce	201520	Mona	T02	Tutorial/Discussions	30	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Fri	11:00 AM	11:59 AM	Computer Science Tutorial Room 2		
+24688	SWEN	3165	Software Testing	201520	Mona	M11	Lecture	100	10017952	Eyton A. Ferguson	18-Jan-16	15-Apr-16	Tues	1:00 PM	1:59 PM	Computing Lecture Room		
+24688	SWEN	3165	Software Testing	201520	Mona	M11	Lecture	100	10017952	Eyton A. Ferguson	18-Jan-16	15-Apr-16	Thur	10:00 AM	10:59 AM	Computing Lecture Room		
+24688	SWEN	3165	Software Testing	201520	Mona	M11	Lecture	100	10017952	Eyton A. Ferguson	18-Jan-16	15-Apr-16	Fri	4:00 PM	4:59 PM	PAS Computer Science Lab 2		
+24689	SWEN	3165	Software Testing	201520	Mona	T01	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Tues	3:00 PM	3:59 PM	Computer Science Tutorial Room 2		
+24691	SWEN	3165	Software Testing	201520	Mona	T03	Tutorial/Discussions	25	10017952	Eyton A. Ferguson	18-Jan-16	15-Apr-16	Tues	10:00 AM	10:59 AM	POST GRAD COMPUTER ROOM		
+24693	SWEN	3185	Formal Methods and Software Reliability	201520	Mona	M11	Lecture	50	10009347	Ezra K. Mugisa	18-Jan-16	15-Apr-16	Mon	2:00 PM	2:59 PM	Computing Lecture Room		
+24693	SWEN	3185	Formal Methods and Software Reliability	201520	Mona	M11	Lecture	50	10009347	Ezra K. Mugisa	18-Jan-16	15-Apr-16	Tues	9:00 AM	9:59 AM	Computing Lecture Room		
+24693	SWEN	3185	Formal Methods and Software Reliability	201520	Mona	M11	Lecture	50	10009347	Ezra K. Mugisa	18-Jan-16	15-Apr-16	Thur	11:00 AM	11:59 AM	PAS Science Lecture Theatre		
+24694	SWEN	3185	Formal Methods and Software Reliability	201520	Mona	T01	Tutorial/Discussions	25	10009347	Ezra K. Mugisa	18-Jan-16	15-Apr-16	Tues	12:00 PM	12:59 PM	POST GRAD COMPUTER ROOM		
+24695	SWEN	3185	Formal Methods and Software Reliability	201520	Mona	T02	Tutorial/Discussions	25	TUTOR	TUTOR	18-Jan-16	15-Apr-16	Thur	9:00 AM	9:59 AM	Computer Science Tutorial Room 2		
+25457	SWEN	3920	Group Project	201520	Mona	S01	Seminar	60	10019397	Curtis C. Busby-Earle	18-Jan-16	15-Apr-16	Tues	3:00 PM	4:59 PM			
+25458	SWEN	3920	Group Project Tutorial SWEN3920	201520	Mona	T01	Tutorial/Discussions	60	10019397	Curtis C. Busby-Earle	18-Jan-16	15-Apr-16	Fri	11:00 AM	11:59 AM			

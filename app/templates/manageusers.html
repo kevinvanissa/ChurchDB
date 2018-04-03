@@ -1,0 +1,24 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+{% block content %}
+{% include 'flash.html' %}
+<div class="row">
+        <div class="col-md-8 col-md-offset-4">
+            <h3>All Users </h3> 
+
+            {% for user in users %}
+            {{user.firstname}} {{user.lastname}} (<b>{{user.userInitial}}</b>)
+            
+            {% if g.user.role == 1 %}&nbsp;<a href="{{url_for('edituser',id=user.id)}}"><b><span class="glyphicon glyphicon-edit"></span></b></a> <a href="{{url_for('deleteuser',id=user.id)}}" onclick="javascript:return deleteItem();"><b><span class="glyphicon glyphicon-remove"></span></b></a>
+{% endif %} <br />
+
+            
+            
+            <br />
+
+            {% endfor %}
+
+      </div>
+    </div>
+
+{% endblock %}

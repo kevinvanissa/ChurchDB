@@ -1,0 +1,103 @@
+<!-- extend base layout -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+  <meta name="generator" content="HTML Tidy for Linux (vers 25 March 2009), see www.w3.org">
+
+  <title></title>
+</head>
+
+<body>
+  {% extends "base.html" %} {% block content %}
+
+  <h4>Hi, {{g.user.firstname}} {{g.user.lastname}}</h4>{% include 'flash.html' %}
+
+  <div class="row">
+    <div class="col-md-8">
+      <h3>{{title}}</h3>
+
+      <p align="center">{% if not user.picture %} <img src="/static/img/noimage.jpg" width='100px' height='100px'> {% else %} 
+          <img src="{{url_for('uploaded_file',filename=user.picture)}}" width="100px" height="100px"> 
+          {% endif %}<br></p>
+
+      <table class="table">
+        <tr class="warning">
+          <td>Name:</td>
+
+          <td>{{user.firstname}} {{user.lastname}} &nbsp;&nbsp; <a class="btn btn-xs btn-warning" href="{{url_for('edituser',id=user.id)}}">Edit Info</a></td>
+        </tr>
+
+        <tr class="warning">
+          <td>Email:</td>
+
+          <td>{{user.email}}</td>
+        </tr>
+
+        <tr class="warning">
+          <td>Occupation:</td>
+
+          <td>{{user.occupation}}</td>
+        </tr>
+
+        <tr class="warning">
+          <td>Place of Employment:</td>
+
+          <td>{{user.place_of_employment}}</td>
+        </tr>
+
+        <tr class="warning">
+          <td>Certificaton:</td>
+
+          <td>{{user.certification}}</td>
+        </tr>
+
+
+
+
+        <tr class="warning">
+          <td>Address:</td>
+
+          <td>Steet: {{user.street}}<br>
+          City: {{user.city}}<br>
+          State: {{user.state}}<br>
+          Zip: {{user.zip}}<br></td>
+        </tr>
+      </table>
+      <hr>
+
+      <table class="table">
+        <tr class="success">
+          <td>Phone:</td>
+
+          <td>{% for phone in phones %} {{phone.Phone.phone}} {%if phone.Phone.phone%}-{{phone.Phone.network}}  &nbsp;&nbsp; {% endif %}<br>
+          {% endfor %}  <a class="btn btn-xs btn-warning" href="{{url_for('editphone',id=user.id)}}">Edit Phone(s)</a>   </td >
+        </tr>
+      </table>
+      <hr>
+
+      <table class="table">
+        <tr class="info">
+          <td>Departments:</td>
+
+          <td>{% for department in departments %} {{department.Department.dept_name}}<br>  {% endfor %}  &nbsp;&nbsp; <a class="btn btn-xs btn-warning" href="{{url_for('editdepartment',id=user.id)}}">Edit Department(s)</a>
+</td>
+        </tr>
+      </table>
+
+      <table class="table">
+        <tr class="success">
+          <td>Relatives:</td>
+
+          <td>{% for relative in relatives %} {{relative.User.firstname}} {{relative.User.lastname}} ({{relative.Family.type}})<br>
+              {% endfor %}  &nbsp;&nbsp; <a class="btn btn-xs btn-warning" href="{{url_for('editrelative',id=user.id)}}">Edit Relative(s)</a>
+ </td>
+        </tr>
+      </table>
+    <br />
+    <a class="btn btn-danger btn-sm" href="{{url_for('deleteuser',id=user.id)}}" onclick="javascript:return deleteItem();"><b><span class="glyphicon glyphicon-remove"></span></b> Delete User</a>
+
+    </div>
+  </div>{% endblock %}
+</body>
+</html>
